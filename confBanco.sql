@@ -79,7 +79,7 @@ CREATE TABLE usuario(
 
 INSERT INTO  usuario (nome, email, senha, fkTipoUsuario, fkEmpresaLocadora, fkEmpresaAlocacao) VALUES
 	('Kevin', 'kevin.silva@sptech.school', '1234', 1, 1, 1);
-
+    
 
 CREATE TABLE modeloComputador(
 	idModeloComputador INT PRIMARY KEY auto_increment,
