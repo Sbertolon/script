@@ -145,4 +145,3 @@ fi
 sudo chmod +x /home/ubuntu/script/java.sh
 
 ./java.sh
-
