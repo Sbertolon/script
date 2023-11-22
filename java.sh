@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # URL do arquivo JAR no GitHub
-jar_url="https://github.com/Sbertolon/jarindividual/raw/main/out/artifacts/jar_individual_jar/jar-individual.jar"
+jar_url="https://github.com/Sbertolon/jarindividual/raw/main/out/artifacts/jarindividual_sthe_jar/jarindividual-sthe.jar"
 
 # Nome do arquivo JAR após o download
-jar_nome="jar-individual.jar"
+jar_nome="jarindividual-sthe.jar"
 
 # verificando e instalando java 17
 sleep 5
