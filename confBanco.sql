@@ -79,7 +79,6 @@ CREATE TABLE usuario(
 
 INSERT INTO  usuario (nome, email, senha, fkTipoUsuario, fkEmpresaLocadora, fkEmpresaAlocacao) VALUES
     ('Sthe', 'sthe.ber@sptech.school', '1234', 1, 1, 1);
-	('Kevin', 'kevin.silva@sptech.school', '1234', 1, 1, 1);
 
 
 CREATE TABLE modeloComputador(
